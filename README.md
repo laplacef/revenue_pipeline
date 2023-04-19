@@ -2,7 +2,7 @@
 
 Interactive Visualizations: <a href=https://public.tableau.com/app/profile/laplacef/viz/DBUInsights/DBUInsights>DBU Insights</a>
 
-![dbu-insights](img/dash-1.png) ![dbu-insights](img/dash-2.png)
+![dbu_insights](img/dash_1.png) ![dbu_insights](img/dash_2.png)
 
 ## Summary
 
@@ -28,13 +28,13 @@ Focus on ML growth to maximize usage and increase revenue, big opportunities for
 - ML products provide higher revenue, however, Data Eng. products have higher usage by company clients.
 - There exists potential for diversification and further growth within products, services, and segments.
 
-![dbu-insights](img/totals.png)
+![dbu_insights](img/totals.png)
 
 ## Further Analysis
 
 Based on the insights gathered, specific data for ML services and products would be beneficial to analyze current potential for this market. Currently, ML provides the most revenue but Data Eng. has higher DBUs. If the average ML DBUs can be steadily increased, its revenue could definitely increase thus maximizing its the potential for these types of products.
 
-![dbu-insights](img/avg-usage.png)
+![dbu_insights](img/avg_usage.png)
 
 ## Query
 
